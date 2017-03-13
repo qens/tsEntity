@@ -1,0 +1,2 @@
+# tsEntity
+typescript entity
